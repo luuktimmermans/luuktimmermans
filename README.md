@@ -1,3 +1,3 @@
 👋 Hi, I’m Luuk  
-👀 I’m a Lead Developer at [Eyetractive](https://eyetractive.nl)  
-📫 You can reach out via [luuktimmermans.lt](https://luuktimmermans.lt)
+👀 I’m a Lead Developer at [Wink](https://winkdigital.nl)  
+📫 You can reach out via [luuktimmermans.xyz](https://luuktimmermans.xyz)
